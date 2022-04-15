@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wendynho 
 - 👀 I’m interested in help people with my developing studies 
-- 🌱 I’m currently learning C#, Flutter e Laravel
+- 🌱 I’m currently learning C#, Flutter(dart)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me / wendelbmf22@gmail.com
 
